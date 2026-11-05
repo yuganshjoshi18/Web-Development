@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tandem">
+  <rect width="64" height="64" rx="18" fill="#16372D" />
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="none" stroke="#F6F1E4" stroke-opacity="0.16" />
+  <path d="M18 40C18 29 26 21 37 21" fill="none" stroke="#F6F1E4" stroke-width="5" stroke-linecap="round" />
+  <path d="M46 24C46 35 38 43 27 43" fill="none" stroke="#A9C3A4" stroke-width="5" stroke-linecap="round" />
+  <circle cx="18" cy="40" r="3.5" fill="#D9C8A2" />
+  <circle cx="46" cy="24" r="3.5" fill="#D9C8A2" />
+</svg>
